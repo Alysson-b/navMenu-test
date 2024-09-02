@@ -25,7 +25,7 @@
     align-items: center;
     max-width: 450px;
     width: 400px;
-    height: 70px;
+    height: 80px;
     background: var(--color-primary);
     position: relative;
     border-radius: 15px;
@@ -63,18 +63,17 @@
     font-size: 2.5em;
     transition: 0.5s;
     color: aliceblue;
-    cursor: pointer;
 }
 
 .navigation ul li.active a .icon {
-    transform: translateY(-25px);
+    transform: translateY(-20px);
 }
 
 .border {
     position: absolute;
     width: 100px;
     height: 100px;
-    top: -57%;
+    top: -40%;
     left: 0;
     background: var(--color-segundary);
     border-radius: 50%;
