@@ -7,7 +7,7 @@
     --color-primary: #000;
     --color-segundary: #1a849e;
 }
-@media  (max-width: 400px) {
+@media  (max-width: 425px) {
     
 .container {
     display: flex;
